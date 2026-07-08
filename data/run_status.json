@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-07-08T05:16:10.528981Z",
+  "run_at": "2026-07-08T09:06:45.297346Z",
   "fetchers": {
     "sq_calendar": {
       "status": "ok",
@@ -14,9 +14,8 @@
       "rows": 1
     },
     "gex_calculation": {
-      "status": "ok",
-      "rows": 2137,
-      "spot": 67696.703125
+      "status": "error",
+      "error": "Failed to perform, curl: (60) SSL: no alternative certificate subject name matches target hostname 'fc.yahoo.com'. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     }
   }
 }
