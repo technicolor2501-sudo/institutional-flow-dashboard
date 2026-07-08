@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# 認証情報
+.env
+.streamlit/secrets.toml
+
+# テンポラリ・OS
+.pytest_cache/
+*.log
+.DS_Store
+Thumbs.db
+
+# 開発用プローブスクリプト（本番不要）
+scripts/_probe_*.py

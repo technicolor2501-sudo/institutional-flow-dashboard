@@ -1,0 +1,22 @@
+{
+  "run_at": "2026-07-08T04:29:16.368900Z",
+  "fetchers": {
+    "sq_calendar": {
+      "status": "ok",
+      "rows": 24
+    },
+    "jpx_options": {
+      "status": "ok",
+      "rows": 2137
+    },
+    "jpx_short_selling": {
+      "status": "ok",
+      "rows": 1
+    },
+    "gex_calculation": {
+      "status": "ok",
+      "rows": 2137,
+      "spot": 67745.28125
+    }
+  }
+}
