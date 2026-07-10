@@ -1,10 +1,10 @@
 {
   "last_status": "ok",
-  "last_updated": "2026-07-09T01:08:12.263463",
-  "last_hash": "81909fa078a6d5615c80328c08dc5a53cda130e3ddb74035d686568065367dc9",
-  "last_url": "https://www.jpx.co.jp/automation/markets/statistics-derivatives/daily/files/202607/Daily_Report_OSE_20260708.zip",
-  "rows": 2162,
-  "trade_date": "20260708",
+  "last_updated": "2026-07-10T01:06:21.588580",
+  "last_hash": "45418b4bdf5f30fcd7d0645dabf583c5ae7c06fa9c1dbdbe47e1f43cb8e08cf8",
+  "last_url": "https://www.jpx.co.jp/automation/markets/statistics-derivatives/daily/files/202607/Daily_Report_OSE_20260709.zip",
+  "rows": 2174,
+  "trade_date": "20260709",
   "etag": null,
-  "last_modified": "Wed, 08 Jul 2026 00:01:58 GMT"
+  "last_modified": "Thu, 09 Jul 2026 00:01:58 GMT"
 }
