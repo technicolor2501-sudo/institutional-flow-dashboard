@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-07-10T01:06:26.987044Z",
+  "run_at": "2026-07-10T10:00:37.854687Z",
   "fetchers": {
     "sq_calendar": {
       "status": "ok",
@@ -16,7 +16,7 @@
     "gex_calculation": {
       "status": "ok",
       "rows": 2174,
-      "spot": 68813.921875
+      "spot": 68557.7265625
     }
   }
 }
